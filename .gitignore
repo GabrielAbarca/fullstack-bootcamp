@@ -1,0 +1,12 @@
+# ==========================================
+# SENSITIVE DATA & ENVIRONMENT VARIABLES
+# ==========================================
+.env
+.env.local
+
+# ==========================================
+# RUNTIME, COMPILATION, AND BUILD OUTPUTS
+# ==========================================
+node_modules/
+/dist/
+/build/
